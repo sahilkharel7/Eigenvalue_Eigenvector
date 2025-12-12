@@ -1,5 +1,5 @@
-project:
-  name: Eigenvalues and Eigenvectors Calculator
+Project:
+  Name: Eigenvalues and Eigenvectors Calculator
   platform: TI-84 Plus CE Python
   purpose: >
     Compute integer eigenvalues and eigenvectors of square matrices
